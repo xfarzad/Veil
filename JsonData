@@ -1,0 +1,10 @@
+{
+    "games": {
+        "1008451066": {
+            "name": "Da hood",
+            "settings": {
+                "requires_remote": true
+            }
+        }
+    }
+}
